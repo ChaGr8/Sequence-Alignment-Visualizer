@@ -1,0 +1,5 @@
+{
+  "name": "Sequence Alignment Visualizer",
+  "description": "An interactive web application to perform and visualize pairwise sequence alignment for DNA, RNA, or protein sequences using Needleman-Wunsch (global) and Smith-Waterman (local) algorithms.",
+  "requestFramePermissions": []
+}

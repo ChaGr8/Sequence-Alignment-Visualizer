@@ -53,7 +53,7 @@ Build & Deploy: Node.js, Vercel/Netlify
 
 **Project Structure**
 
-sequence-alignment-visualizer/
+``` sequence-alignment-visualizer/
 ├── index.html                # Main HTML entry point, loads scripts and styles via CDN.
 ├── metadata.json             # Application metadata.
 ├── README.md                 # Project documentation (you are here!).
@@ -76,6 +76,7 @@ sequence-alignment-visualizer/
     │
     └── services/               # Core application logic and algorithms.
         └── alignmentService.ts   # Needleman-Wunsch & Smith-Waterman implementations.
+```
 How It Works
  1. **Algorithms**
 
